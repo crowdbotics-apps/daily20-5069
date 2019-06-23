@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT daily20_5069.wsgi:application
